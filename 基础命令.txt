@@ -47,7 +47,7 @@
 	
 	例如你当前在本地的master分支下，想提交本地的test分支到远程的test分支，则: git push 仓库标识 要提交的本地分支:提交到远程的分支
 
-	例：git push origin test:test  。
+	例：git push origin test:test  
 
 	1）git 的分支可以在主分支不受影响的情况下，创建多分支。
 
